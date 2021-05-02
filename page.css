@@ -1,0 +1,136 @@
+.Rectangle{
+    
+    height: 60px;
+    margin: 0 0 31px;
+    padding: 10px 24px 10px 20px;
+    background-color: #ce0505;
+  }
+  .logo{
+
+  height: 36px;
+  font-family: Poppins;
+  font-size: 26px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #eb2929;
+
+  }
+  .Ellipse{
+    width: 40px;
+    height: 40px;
+    border-radius: 60px;
+    margin: 0 136px 0 0;
+    padding: 1px 7px 3px 8px;
+    background-color: #ffffff;
+  }
+  .Login {
+    width: 35px;
+    height: 19px;
+    margin: 6px 19px 7px 0;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.54;
+    letter-spacing: normal;
+    text-align: left;
+    font-size: 20px;
+    color: #ffffff;
+  }
+  .h2{
+    width: 285px;
+    height: 28px;
+    margin: 31px 111px 12px 24px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+  .Rect1{
+   
+    height: 224px;
+    margin: 18px 1px 24px 0;
+    padding: 31px 23.4px 11px 21.8px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+  }
+  .rect2 {
+   
+    height: 53px;
+    color: navy;
+    font-size: 30px;
+    margin: 12px 14px 18px 20px;
+    padding: 16px 26.7px 14px 21px;
+    -webkit-backdrop-filter: blur(30px);
+    backdrop-filter: blur(30px);
+    box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+    border: solid 1px #e0e0e0;
+    background-color: #ffffff;
+  }
+  .icon
+  {
+    height: 150px;
+    width: 150;
+    border-radius: 10px;
+    margin-right: 10px;
+  }
+
+.rect3 {
+    display: flex;
+  
+  height: 224px;
+  margin: 18px 1px 24px 0;
+  padding: 31px 23.4px 11px 21.8px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+  
+}
+.icon2
+  {
+    height: 150px;
+    width: 150;
+    border-radius: 10px;
+    margin-right: 10px;
+  }
+
+.rect4 {
+    display: flex;
+  
+  height: 224px;
+  margin: 18px 1px 24px 0;
+  padding: 31px 23.4px 11px 21.8px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+  
+}
+
+.icon3
+  {
+    height: 150px;
+    width: 150;
+    border-radius: 10px;
+    margin-right: 10px;
+  }
+
+.rect5 {
+    display: flex;
+  
+  height: 224px;
+  margin: 18px 1px 24px 0;
+  padding: 31px 23.4px 11px 21.8px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+  
+}
+.zplayer
+{width: 7.61905%; height: 1.85005%; left: 27.1429%; top: 73.4177%;}
